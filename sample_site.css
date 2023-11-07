@@ -1,0 +1,21 @@
+html, body{
+    font-family: system-ui, Helvetica, sans-serif;
+}
+iframe {
+    width: 60%;
+    height: 100%;
+    border: none;
+    overflow: hidden;
+}
+h1 {
+    background-color: rgb(148, 203, 202);
+    background-size:50% auto;
+    border: 10px solid rgb(148, 203, 202);
+    border-radius: 7px;
+}
+p.description {
+    font-size: 20px;
+    text-align: center;
+    margin-right: 10%;
+    column-width: 30%;
+}
