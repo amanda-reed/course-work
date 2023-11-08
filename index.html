@@ -8,7 +8,7 @@
 }
 iframe {
     width: 60%;
-    height: 100%;
+    min-height: 500px;
     border: none;
     overflow: hidden;
 }
@@ -25,15 +25,15 @@ p.description {
     column-width: 30%;
 }
     </style>
-<!--    <link rel="stylesheet" href="sample_site.css" type=“text/css”> -->
+    <!-- <link rel="stylesheet" href="sample_site.css" type="text/css"> -->
 </head>
 <title>tab title here</title>
 
     <h1 style="text-align: center; vertical-align: centers;">Are there mental health disparities for Canadian Indigenous populations?</h1>
 
-    <h2 style="margin-left: 5%; margin-top: 30px;">Less than 6% of Canadians Identify as Indigenous</h2>
-    <div style="height: 120%; overflow-y: hidden;">
-        <iframe src="media/donut.html" title="Donut plot" style="float: left"></iframe>
+    <h2 style="margin-left: 5%; margin-top: 10px;">Less than 6% of Canadians Identify as Indigenous</h2>
+    <div style="height: auto; overflow-y: auto;">
+        <iframe src="media/donut.html" title="Donut plot" style="float: left;"></iframe>
         <div >
             <p class="description", style="margin-left: 200px;">
             
@@ -48,12 +48,21 @@ p.description {
         </div>
     </div>
 
-    
+    <!-- SWITCH PART 2 AND 3 -->
 
     <div style="height: 120%;">
-        <p class="description" style="float: left; ">description of plot2 jkl; akdlj l;abk lkld;e ska l;fj kd l;s aj jkld; ajkl;d jkl;djs jkl;js  jkl jk kl kl
-            jk kl;s gjkl;d jskld; jfk ji;s jafjdk sla;jf ld;j al;fj kdls ;ajfk jjfioew ;ajf ;jsajf jkfdl;jaf;dsa kjkl
-            jkld jkls jkdl sjkl jkl jkl 
+        <p class="description" style="float: left; ">There is a relationship between the self-reported mental 
+            health variable on the x-axis and the clinically diagnosed mood disorder by a medical professional 
+            variable on the y-axis. Based on the indigenous vs non-indigenous populations, the self-assessed 
+            mental health correlates with the diagnosed mood disorder where the gray non-indigenous have a lower 
+            crude rate (below 15% in both sexes) and the other values of indigenous populations have a high crude 
+            rate of both variables (varying from 5% to 25% in both sexes). There is also an overall trend of 
+            females having a higher crude rate of mood disorder and mental health than males do in both populations
+             of indigenous and non-indigenous. The interactivity does add to this visualization because there are 
+             so many variables - females, males, geography, domain, mental health, and mood disorder that are
+              portrayed in one graph. The interactivity does align with Doumont’s talk in terms of what he says 
+              because there is a minimized signal to noise ratio in this graph, and each label has a purpose to 
+              the values and variables on the graph. 
         </p>
         <h2 style="text-align: center;">Mental Health and Mood Disorders in <br>Indigenous/Non Indigenous Peoples</h2>
         <iframe src="media/scatter.html" title="scatter plot", style="float:right"></iframe>
