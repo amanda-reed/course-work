@@ -6,13 +6,16 @@ both in a team and individual setting. I am currently an intern for Pacific Nort
 software testing. I'm interested in exploring possible career paths within the industry in an applied research setting.
 
 ## Work ##
-[DATA 303 Final Project](/Degrees_of_Sep) It's a Small World after All? : Degrees of Separation at W&M *DATA 303, Data Visualizations, Fall 2023*
+**It's a Small World after All? : Degrees of Separation at W&M**<br>
+[Final Project](/Degrees_of_Sep) *DATA 303, Data Visualizations, Fall 2023*
 
-[Interacting with Data Project](index.html): Are there mental health disparities for Canadian Indigenous populations? *DATA 303, Data Visualizations, Fall 2023*
+**Are there mental health disparities for Canadian Indigenous populations?** <br>
+[Interacting with Data Project](index.html) *DATA 303, Data Visualizations, Fall 2023*
 
-[First-Year Monroe Scholars Research](https://www.youtube.com/watch?v=1fwR5eSHZIk)
-Bringing together technology and art: The use of Machine Learning to generate new music *June 2021 - August 2021*
+**Bringing together technology and art: The use of Machine Learning to generate new music** <br>
+[First-Year Monroe Scholars Research](https://www.youtube.com/watch?v=1fwR5eSHZIk) *June 2021 - August 2021*
 
 ## More info ##
 [LinkedIn](https://www.linkedin.com/in/amanda-m-reed/)
+
 [Github](https://github.com/amanda-reed)
